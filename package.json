@@ -1,0 +1,28 @@
+{
+  "name": "ggui",
+  "version": "0.4.0",
+  "description": "可配置、模块化、插件化的移动端UIKIT，采用ES6、CSS3、LESS技术。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majunbao/ggui.git"
+  },
+  "keywords": [
+    "UIKIT",
+    "ES6",
+    "LESS",
+    "CSS3"
+  ],
+  "author": "majunbao",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/majunbao/ggui/issues"
+  },
+  "homepage": "https://github.com/majunbao/ggui#readme"
+}
