@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/majunbao/ggui/issues"
   },
-  "homepage": "https://github.com/majunbao/ggui#readme"
+  "homepage": "https://github.com/majunbao/ggui#readme",
+  "dependencies": {
+    "webpack": "~5.0.0-beta.16"
+  }
 }
